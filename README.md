@@ -13,6 +13,10 @@ the policy is served at:
 Paste that URL into App Store Connect → App Privacy / App Information →
 Privacy Policy URL.
 
+The **Support URL** (App Information → Support URL) is:
+
+**https://skennedy30-a11y.github.io/Mobile-App-Policy/support.html**
+
 ---
 
 ## Privacy Policy — My Drum Tab
